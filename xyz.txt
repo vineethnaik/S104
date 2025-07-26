@@ -1,5 +1,8 @@
 "Hello" 
+<<<<<<< HEAD
 
 "Good Morning"
 
 "om sai ram"
+=======
+>>>>>>> parent of 9bfb9b2 (https://www.github.com/vineethnaik/S104.git)
